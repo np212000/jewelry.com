@@ -1,0 +1,176 @@
+body {background-image : url(a.jpg); background-repeat : no-repeat; background-size : 100% 655px; 
+padding : 0; margin : 0;}
+
+/*start home page nav coding*/
+
+#menu-bar {width : 100%; height : 190px; box-sizing : border-box; background-color : rgba(245, 0, 87, 0.8);}
+
+#menu-bar-heading {color : white; padding : 0; margin : 0; text-align : center; font-size : 30px; 
+font-family : Verdana; padding-top : 30px;} 
+
+#menu {width : 700px; height : 50px; box-sizing : border-box; margin-top : 30px;}
+
+#menu-item {width : 20%; height : 50px; border-width : 2px; border-style : solid; border-color : white;
+box-sizing : border-box; text-align : center;} 
+
+a {text-decoration : none; color : black; font-size : 19px; font-family : sans-serif;}
+
+
+/*end home page nav coding*/
+
+
+/*start home page section coding*/
+
+#logo-head {width : 100px; height : 100px; box-sizing : border-box; border-width : 5px; border-style : groove; 
+border-color : rgb(245, 0, 87); float : right; margin-right : 400px; margin-top : 80px;}
+
+#logo-name {font-family : Spantaran; color : white; text-align : center; font-size : 80px; padding : 0px; 
+margin : 0px; margin-top : 5px;}
+
+#tagline {color : white; margin-top : 200px; margin-left : 780px; font-family : Segoe Print; font-weight : bold;}
+
+/*end home page section coding*/
+
+
+/*start contact page section coding*/
+
+fieldset {width : 230px; height : 210px; border-width : 2px; border-style : dashed; border-color : rgb(245, 0, 87);
+margin-left : 790px; margin-top : 35px;}
+
+legend {color : white; font-family : sans-serif; font-size : 18px;}
+
+#contact-detail {color : white; font-style : normal; line-height : 23px;  font-size : 17px;}
+
+.head {color : rgb(245, 0, 87) ; padding : 0; margin : 0;}
+
+/*end contact page section coding*/
+
+
+/*start log-in page body coding*/
+
+#login-body {background-image : url(c.jpg);}
+
+/*end log-in page body coding*/
+
+
+/*start log-in page section coding*/
+
+#login-fieldset {margin-right : 700px; color : white; font-size : 17px; font-family : sans-serif; padding : 20px;
+margin-left : 500px; margin-top : 50px;}
+
+#login-input {width : 100%; height : 27px; background : inherit; margin-top : 5px; color : white; 
+font-size : 15px; padding : 5px; box-sizing : border-box; border-style : none; border-width : 2px; 
+border-style : groove; border-color : rgb(245, 0, 87);}
+
+#login-btn {float : right; background : inherit; width : 87px; height : 28px; color : white; 
+border-color : rgb(245, 0, 87); font-weight : bold; margin-top : 20px; border-width : 3px; border-style : groove;}
+
+/*end log-in page section coding*/
+
+
+/*start sign-up page section coding*/
+
+#signup-fieldset {height : 380px; color : white; font-size : 17px; font-family : sans-serif; margin-left : 500px;}
+
+#signup-input {width : 100%; height : 50px; background : inherit; border-color : rgb(245, 0, 87); color : white;
+box-sizing : border-box; padding : 5px; margin-top : 5px; font-size : 15px; border-width : 2px; 
+border-style : groove;}
+
+#signup-btn {float : right; background : inherit; width : 95px; height : 30px; color : white; 
+border-color : rgb(245, 0, 87); font-weight : bold; margin-top : 20px; border-width : 3px; border-style : groove;
+margin-top : 10px;}
+
+/*end sign-up page section coding*/
+
+
+/*start product page body coding*/
+
+#products-body {background-image : url(e.jpg);  background-attachment : fixed;}
+
+/*end product page body coding*/
+
+
+/*start product page section coding*/
+
+#jewellry-section {width : 100%; height : 2200px;}
+
+#logo-bar {width : 100%; height : 380px; background-color : rgba(255, 255, 255, 0.7); box-sizing : border-box;
+padding-top : 30px;}
+
+#logo-bar-heading {color : black; text-align : center; padding : 0px; margin : 0px; font-size : 30px; 
+font-family : sans-serif;}
+
+#logo {width : 200px; height : 80px; border-width : 3px; border-color : rgb(245, 0, 87); border-style : solid;
+float : left; box-sizing : border-box; padding : 0px; margin : 0px; margin-left : 3%; margin-right : 2%; 
+margin-top : 30px;}
+
+#logo-image {width : 195px; height : 75px;}
+
+#search-bar {width : 55%; height : 47px; background : inherit; border-style : none; margin-top : 70px; 
+margin-left : 330px; font-size : 18px; box-sizing : border-box; padding : 10px; border-width : 2px; 
+border-style : solid; border-color : black;  background-image : url(search.png); background-size : 55px 33px;
+background-repeat : no-repeat; background-position : right;}
+
+.tanishq-products {width : 100%; height : 400px; background-color : rgba(0, 0, 0, 0.8);}
+
+.brand-head {color : white; text-align : center;}
+
+.image {width : 200px; height : 280px; box-sizing : border-box; border-width : 5px; border-style : groove; 
+border-color : rgb(245, 0, 87); float : left; margin-left :60px;}
+
+.photo {width : 193px; height : 193px;}
+
+#jewellry-name {color : white; text-align : center; padding : 0px; margin : 0px; margin-top : 10px; font-size : 15px; 
+font-family : sans-serif;}
+
+.price {color : white; padding : 0px; margin : 0px;  float : left; text-align : center; font-size : 13px; 
+font-family : sans-serif; margin-top : 20px;}
+
+.buy {color : white; padding : 0px; margin : 0px; margin-left : 120px;  float : right; text-align : center;
+font-size : 13px; font-family : sans-serif;}
+
+
+#malabar-products {width : 100%; height : 400px; background-color : rgba(0, 0, 0, 0.8);}
+
+.malabar-head {color : white; text-align : center;}
+
+.malabar-image {width : 200px; height : 280px; box-sizing : border-box; border-width : 5px; border-style : groove; 
+border-color : rgb(245, 0, 87); float : left; margin-left :60px;}
+
+
+#kalyan-products {width : 100%; height : 1700px; background-color : rgba(0, 0, 0, 0.8);}
+
+.kalyan-head {color : white; text-align : center; }
+
+.kalyan-image {width : 200px; height : 280px; box-sizing : border-box; border-width : 5px; border-style : groove; 
+border-color : rgb(245, 0, 87); float : left; margin-left :60px;}
+
+
+
+#caratalane-products {width : 100%; height : 1700px; background-color : rgba(0, 0, 0, 0.8);}
+
+.caratalane-head {color : white; text-align : center;}
+
+.Caratalane-image {width : 200px; height : 280px; box-sizing : border-box; border-width : 5px; border-style : groove; 
+border-color : rgb(245, 0, 87); float : left; margin-left :60px;}
+
+
+
+#blue-stone-products {width : 100%; height : 1700px; background-color : rgba(0, 0, 0, 0.8);}
+
+.blue-stone-head {color : white; text-align : center;}
+
+.blue-stone-image {width : 200px; height : 280px; box-sizing : border-box; border-width : 5px; border-style : groove; 
+border-color : rgb(245, 0, 87); float : left; margin-left :60px;}
+
+/*end product page section coding*/
+
+
+/*start product page footer coding*/
+
+footer {width : 100%; height : 60px; background-color : rgba(255, 255, 255, 0.8); text-align : center; 
+font-size : 15px; font-family : sans-serif; box-sizing : border-box; float : left;}
+
+
+
+/*end product page footer coding*/
